@@ -156,3 +156,4 @@ st.markdown(
 # Observação sobre a aplicação
 st.markdown("---")
 st.markdown("**Note:** Upload a file to automatically calculate the word count. **Please ensure the file is not an image (e.g., scanned documents or certificates), as word count cannot be extracted from images.** You can also manually input the number of pages or hours for additional calculations.")
+
